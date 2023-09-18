@@ -1,0 +1,21 @@
+
+
+        Engineering Notebook
+
+    Wyatt M. 
+
+    Project 1: Catapult
+    Monday, September 18, 2023
+    Group Members: Wyatt, Cole
+
+    Problem:
+
+    We need to catapult a rice bag consistently.
+
+    Criteria and constraints:
+    Paper Clips
+    Plastic Knives
+    15 Popsicle Sticks
+    Rubber Band
+
+
