@@ -6,11 +6,11 @@
 
     Project 1: Catapult
     Monday, September 18, 2023
-    Group Members: Wyatt, Cole
+    Group Members: Wyatt, [Redacted]
 
     Problem:
 
-    We need to catapult a rice bag consistently.
+    We need to catapult a rice bag 10ft consistently.
 
     Criteria and constraints:
     Paper Clips
